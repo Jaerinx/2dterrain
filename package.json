@@ -2,7 +2,7 @@
   "name": "2dterrain",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jaerinx.github.io/2dterrain",
+  "homepage": "https://jaerinx.github.io/2dterrain",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
